@@ -1,2 +1,2 @@
-# tos-app
-Terms of service for Liccium app
+# tos-cloud
+Terms of service for Liccium cloud application
